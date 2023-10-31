@@ -29,4 +29,10 @@ eu e minha dupla fizemos uma cena simples apenas para entender como funcionava o
 ![image](https://github.com/MatheusSeabra/Unity-colision/assets/101134295/97186404-76b6-43f4-acb0-a626f9a8ef01)
 ![image](https://github.com/MatheusSeabra/Unity-colision/assets/101134295/e077dc1e-405c-40f4-9d56-20e19e00ec15)<br>
 
-os colisores mais utilizados foi Static Collider e o RigidBody Collider
+os colisores mais utilizados foi Static Collider e o RigidBody Collider<br>
+
+
+
+https://github.com/MatheusSeabra/Unity-colision/assets/101134295/9897a022-db59-4249-bbf7-fc22e58b03ca
+
+
